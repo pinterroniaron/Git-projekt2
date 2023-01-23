@@ -4,5 +4,5 @@ Gyakorlo repo a projekt munkához 2. felvonás
 
 # Csapattagok névsora:
 
-- Horváth Máté
+- Horváth Máté  
 - Pintér Roni Áron
